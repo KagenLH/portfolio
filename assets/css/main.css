@@ -3912,3 +3912,16 @@ input, select, textarea {
 	border-radius: 50%;
 	width: 150px;
 }
+
+.icon-image {
+	width: 60px;
+	border-radius: 50%;
+	position: relative;
+	bottom: 7px;
+	right: 5px;
+}
+
+.icon-and-text {
+	display: flex;
+	align-items: center;
+}
